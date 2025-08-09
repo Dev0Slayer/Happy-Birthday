@@ -21,12 +21,3 @@ Optional: GSAP / Anime.js for animations
 
 Optional: Web Audio API for music
 
-📦 How to Use
-bash
-Copy
-Edit
-git clone https://github.com/your-username/happy-birthday-theme.git
-cd happy-birthday-theme
-open index.html
-📸 Preview
-![Birthday Website Preview]()
